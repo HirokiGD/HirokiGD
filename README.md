@@ -1,6 +1,6 @@
 <div align="center">
 
-# I'm Hiroki-San at your service
+<img width="1783" height="467" alt="image" src="https://github.com/user-attachments/assets/a13e8f79-46c5-4927-b37c-9fbe98c1160a" />
 
 ### Game Programmer · UI Designer
 
@@ -16,6 +16,21 @@
 I’ve been part of multiple game projects, working on gameplay logic, player interactions, menus, HUDs, and the feedback that connects them.
 
 I can also do Video and Photo Editing via Photoshop and DaVinci Resolve. Trailers, Photo Manipulation, Banners, Etc.
+
+## 🎮 Game Development
+
+Here are some of the titles I've developed and contributed to:
+
+### Released & Featured
+* **[Be a Best Miner!](https://www.roblox.com/games/97068386804321/Be-a-Best-Miner)** (2026) – *Game Developer*
+* **[Into the Mid-rift](https://gamejolt.com/games/TheMid-Rift/755807)** (2023) – *Game Programmer & UI Designer*
+* **[Christmas Rampage](https://store.steampowered.com/app/1447800/Christmas_Rampage/)** (2020) – *Game Programmer & UI Designer*
+* **[Student](https://gamejolt.com/games/StudentRemoved0278/523707)** (2020) – *Game Developer*
+> *Plus over 10+ private game projects by the company.*
+
+### Early Projects & Fan Work
+* **[Geometry Dash.EXE (Fanmade)](https://gamejolt.com/games/THATJOHNCARLOXGEOMETRYDASHEXE/333077)** (2018) – *Game Developer*
+* **[reCAPTCHA.EXE](https://gamejolt.com/games/EXE666/278579)** (2017) – *Game Developer* *(My first game project!)*
 
 ## 🧩 My Stack
 
