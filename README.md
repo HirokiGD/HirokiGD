@@ -32,12 +32,3 @@ Here are some of the titles I've developed and contributed to:
 * **[Geometry Dash.EXE (Fanmade)](https://gamejolt.com/games/THATJOHNCARLOXGEOMETRYDASHEXE/333077)** (2018) – *Game Developer*
 * **[reCAPTCHA.EXE](https://gamejolt.com/games/EXE666/278579)** (2017) – *Game Developer* *(My first game project!)*
 
-## 🧩 My Stack
-
-<p>
-  <img src="https://img.shields.io/badge/EDITING-8B5CF6?style=flat-square" alt="Editing" />
-  <img src="https://img.shields.io/badge/UI-EC4899?style=flat-square" alt="UI" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
-</p>
